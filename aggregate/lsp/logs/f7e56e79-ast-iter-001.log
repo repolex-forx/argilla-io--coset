@@ -1,0 +1,7 @@
+[2026-11-08T10:45:08Z] === AST ITERATION 1 START | repo=argilla-io/coset sha=f7e56e79 ===
+[2026-11-08T10:45:08Z] [iter=1] PHASE START: ast repo=argilla-io/coset sha=f7e56e79
+[2026-11-08T10:45:08Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T10:45:09Z] [iter=1] AST chunks built count=1 triples=12822
+[2026-11-08T10:45:09Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f7e56e7973a7a51e470d883ad61e674818410761/.complete
+[2026-11-08T10:45:09Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-11-08T10:45:09Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
