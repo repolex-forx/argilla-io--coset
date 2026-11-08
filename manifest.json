@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "argilla-io",
+  "repo": "coset",
+  "versions": [
+    {
+      "commit": "f7e56e7973a7a51e470d883ad61e674818410761",
+      "parsed_at": "2026-11-08T10:42:01.827126+00:00",
+      "filetree": "filetree/f7e56e7973a7a51e470d883ad61e674818410761.nq.gz",
+      "blobs": [
+        "blob/337066c29519ddd86d9eb5cd6db3978db151b1c8.nq.gz",
+        "blob/b3f0e91d7e535bf14ca342a9cd5ba288156234ee.nq.gz",
+        "blob/163ca22c7173979a61a576d475a61a2759dcabf9.nq.gz",
+        "blob/bfaed5d798b928c7f6bd12ca0c93d50b9dac6fa2.nq.gz",
+        "blob/65164850ae45bae29cc151009f591be74033eacc.nq.gz",
+        "blob/f31f7d593478a3fad7e305544766ce281446acd7.nq.gz",
+        "blob/e5ea451bc15e65619a4f7d6def8cf142a262554a.nq.gz",
+        "blob/a0be9a36529c7561391d6b29e3a3c260fe86271c.nq.gz",
+        "blob/e321b66e736e19b57ce2b794b0c86d9e1f02cd3b.nq.gz",
+        "blob/0e113323f08e70597edb7a72fdb8f43f27863dd7.nq.gz",
+        "blob/ec5d11c4d7d5b44b6ff1b4bcb30cfef7c97fcdcb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
