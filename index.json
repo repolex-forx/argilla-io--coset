@@ -1,0 +1,11 @@
+{
+  "org": "argilla-io",
+  "repo": "coset",
+  "versions": [
+    {
+      "commit": "f7e56e7973a7a51e470d883ad61e674818410761",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:46:22.726811+00:00"
+    }
+  ]
+}
